@@ -1,0 +1,224 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "phone": "123-456-7890",
+          "address": "123 Main St, City, Country",
+          "profession": "Engineer",
+          "state": "Maharashtra",
+          "district": "Mumbai",
+          "city": "Mumbai",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 2,
+          "name": "Alice Smith",
+          "phone": "987-654-3210",
+          "address": "456 Elm St, City, Country",
+          "profession": "Doctor",
+          "state": "Karnataka",
+          "district": "Bangalore Urban",
+          "city": "Bangalore",
+          "createdAt": "2024-03-10T12:00:00"
+        },
+        {
+          "id": 3,
+          "name": "Jane Doe",
+          "phone": "555-555-5555",
+          "address": "789 Oak St, City, Country",
+          "profession": "Teacher",
+          "state": "Tamil Nadu",
+          "district": "Chennai",
+          "city": "Chennai",
+          "createdAt": "2024-03-10T12:00:00"
+        },
+        {
+          "id": 4,
+          "name": "Bob Smith",
+          "phone": "111-111-1111",
+          "address": "101 Pine St, City, Country",
+          "profession": "Software Developer",
+          "state": "Uttar Pradesh",
+          "district": "Bijnor",
+          "city": "Hyderabad",
+          "createdAt": "2024-03-20T12:00:00"
+        },
+        {
+          "id": 5,
+          "name": "Emma Johnson",
+          "phone": "222-222-2222",
+          "address": "321 Maple St, City, Country",
+          "profession": "Nurse",
+          "state": "Uttar Pradesh",
+          "district": "Lucknow",
+          "city": "Lucknow",
+          "createdAt": "2024-03-20T12:00:00"
+        },
+        {
+          "id": 6,
+          "name": "Michael Brown",
+          "phone": "333-333-3333",
+          "address": "555 Oak St, City, Country",
+          "profession": "Accountant",
+          "state": "West Bengal",
+          "district": "Kolkata",
+          "city": "Kolkata",
+          "createdAt": "2024-04-20T12:00:00"
+        },
+        {
+          "id": 7,
+          "name": "Sarah Williams",
+          "phone": "444-444-4444",
+          "address": "777 Elm St, City, Country",
+          "profession": "Lawyer",
+          "state": "Bihar",
+          "district": "Patna",
+          "city": "Patna",
+          "createdAt": "2024-04-25T12:00:00"
+        },
+        {
+          "id": 8,
+          "name": "David Miller",
+          "phone": "555-555-5555",
+          "address": "888 Pine St, City, Country",
+          "profession": "Architect",
+          "state": "Andhra Pradesh",
+          "district": "Visakhapatnam",
+          "city": "Visakhapatnam",
+          "createdAt": "2024-04-10T12:00:00"
+        },
+        {
+          "id": 9,
+          "name": "Emily Wilson",
+          "phone": "666-666-6666",
+          "address": "999 Maple St, City, Country",
+          "profession": "Marketing Manager",
+          "state": "Rajasthan",
+          "district": "Jaipur",
+          "city": "Jaipur",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 10,
+          "name": "Daniel Taylor",
+          "phone": "777-777-7777",
+          "address": "222 Oak St, City, Country",
+          "profession": "Graphic Designer",
+          "state": "Madhya Pradesh",
+          "district": "Indore",
+          "city": "Indore",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 11,
+          "name": "Olivia Anderson",
+          "phone": "888-888-8888",
+          "address": "333 Elm St, City, Country",
+          "profession": "HR Manager",
+          "state": "Gujarat",
+          "district": "Ahmedabad",
+          "city": "Ahmedabad",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 12,
+          "name": "James Wilson",
+          "phone": "999-999-9999",
+          "address": "444 Maple St, City, Country",
+          "profession": "Sales Executive",
+          "state": "Punjab",
+          "district": "Ludhiana",
+          "city": "Ludhiana",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 13,
+          "name": "Sophia Martin",
+          "phone": "000-000-0000",
+          "address": "555 Pine St, City, Country",
+          "profession": "Writer",
+          "state": "Haryana",
+          "district": "Gurgaon",
+          "city": "Gurgaon",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 14,
+          "name": "William Martinez",
+          "phone": "111-222-3333",
+          "address": "666 Elm St, City, Country",
+          "profession": "Consultant",
+          "state": "Kerala",
+          "district": "Ernakulam",
+          "city": "Kochi",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 15,
+          "name": "Isabella Thompson",
+          "phone": "222-333-4444",
+          "address": "777 Oak St, City, Country",
+          "profession": "Event Planner",
+          "state": "Uttarakhand",
+          "district": "Dehradun",
+          "city": "Dehradun",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 16,
+          "name": "Ethan Garcia",
+          "phone": "333-444-5555",
+          "address": "888 Maple St, City, Country",
+          "profession": "Financial Analyst",
+          "state": "Assam",
+          "district": "Guwahati",
+          "city": "Guwahati",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 17,
+          "name": "Mia Hernandez",
+          "phone": "444-555-6666",
+          "address": "999 Pine St, City, Country",
+          "profession": "Photographer",
+          "state": "Jharkhand",
+          "district": "Ranchi",
+          "city": "Ranchi",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 18,
+          "name": "Benjamin Lopez",
+          "phone": "555-666-7777",
+          "address": "111 Elm St, City, Country",
+          "profession": "Chef",
+          "state": "Chhattisgarh",
+          "district": "Raipur",
+          "city": "Raipur",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 19,
+          "name": "Charlotte Adams",
+          "phone": "666-777-8888",
+          "address": "222 Pine St, City, Country",
+          "profession": "Fashion Designer",
+          "state": "Himachal Pradesh",
+          "district": "Shimla",
+          "city": "Shimla",
+          "createdAt": "2024-03-28T12:00:00"
+        },
+        {
+          "id": 20,
+          "name": "Aiden Clark",
+          "phone": "777-888-9999",
+          "address": "333 Oak St, City, Country",
+          "profession": "Social Media Manager",
+          "state": "Bihar",
+          "district": "Muzaffarpur",
+          "city": "Muzaffarpur",
+          "createdAt": "2024-03-28T12:00:00"
+        }
+      ]
+}
